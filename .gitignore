@@ -1,6 +1,5 @@
 .venv/
 __pycache__/
-*.pyc
-.venv/
-__pycache__/
-*.pyc
+*.py[cod]
+.streamlit/secrets.toml
+src/inspect_data.py
